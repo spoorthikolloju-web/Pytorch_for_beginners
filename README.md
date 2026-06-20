@@ -1,0 +1,1 @@
+These notebooks are beginner friendly and it teaches the root and foundations of Pytorch library. Pytorch is vastly used, easiest library amongst the libraries of python like tensorflow,keras and etc.
