@@ -9,3 +9,5 @@ The notebooks included in this repository are:
 Together, these notebooks provide a practical starting point for beginners who want to learn deep learning and machine learning development using PyTorch through hands-on examples and clear explanations.
 
 Each notebook includes step-by-step explanations and practical examples to help learners understand concepts intuitively and apply them confidently in real-world projects
+
+testing pair extraordinaire
