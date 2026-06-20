@@ -7,3 +7,5 @@ The notebooks included in this repository are:
 2. **PyTorch Workflow** – Demonstrates the complete machine learning workflow in PyTorch, covering data preparation, model creation, training loops, loss functions, optimization, evaluation, and prediction.
 
 Together, these notebooks provide a practical starting point for beginners who want to learn deep learning and machine learning development using PyTorch through hands-on examples and clear explanations.
+
+Each notebook includes step-by-step explanations and practical examples to help learners understand concepts intuitively and apply them confidently in real-world projects
