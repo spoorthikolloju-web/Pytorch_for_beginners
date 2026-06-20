@@ -10,4 +10,4 @@ Together, these notebooks provide a practical starting point for beginners who w
 
 Each notebook includes step-by-step explanations and practical examples to help learners understand concepts intuitively and apply them confidently in real-world projects
 
-testing pair extraordinaire.
+testing pair extraordinaire...
